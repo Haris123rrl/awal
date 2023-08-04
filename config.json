@@ -1,0 +1,24 @@
+{
+  "APIs": {
+    "zenz": "zenzkey_54c02d249b6a", 
+    "apikey": "zenzkey_54c02d249b6a"
+  },
+  "options": {
+    "autoRead": true,
+    "self": false,
+    "autobio": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "Sticker By",
+    "author": "rar bot"
+  },
+  "owner": [
+    "6285936162097",
+    "6285936162097",
+    "6285877582488"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by © Dryan-MD"
+}
